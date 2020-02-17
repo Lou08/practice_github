@@ -1,0 +1,21 @@
+header{
+background-color:blue;
+margin: 0;
+padding-bottom: 50px;
+}
+nav{
+    background-color: brown;
+    margin: 0;
+padding-bottom: 50px;
+}
+section{
+    background-color: yellow;
+}
+article{
+    background-color: coral;
+    margin: 0;
+
+}
+footer{
+    background-color: cyan;
+}
